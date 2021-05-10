@@ -1,8 +1,8 @@
-# Run Buddy Inc.
+# Run Buddy, INC.
 
 ## Purpose
 
-A website that offers fitness training services.
+A website that offers fitness training services. Ahh Yessir!
 
 ## Built With
 
@@ -17,4 +17,4 @@ https://danielolvera21.github.io/run-buddy/
 
 Made with ❤️ by Daniel Olvera
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
