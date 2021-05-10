@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website that offers fitness training services. Ahh Yessir!
+A website that offers fitness training services.
 
 ## Built With
 
